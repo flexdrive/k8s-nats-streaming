@@ -1,6 +1,6 @@
 FROM alpine:3.6
 
-ENV NATSS_VERSION v0.6.0
+ENV NATSS_VERSION v0.9.2
 
 MAINTAINER canhnt@gmail.com
 
